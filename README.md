@@ -107,10 +107,3 @@ src/
 ## Scripts
 - `npm start`: Khởi động server với nodemon và babel-node
 - `npm test`: Chạy test (chưa được cấu hình)
-
-## Tác giả
-Nguyen Thanh Huy
-
-## Giấy phép
-ISC</content>
-<parameter name="filePath">d:\NodeApps\README.md
