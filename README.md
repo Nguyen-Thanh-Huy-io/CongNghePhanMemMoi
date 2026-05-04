@@ -61,10 +61,10 @@ npm start
 Truy cập ứng dụng tại: `http://localhost:8080`
 
 ### Hình ảnh mô tả giao diện
-![Giao diện quản lý user](C:\Users\Dell\Pictures\Screenshot 2026-05-04 145719.png)
+![Giao diện quản lý user](images\Screenshot 2026-05-04 145719.png)
 
 ### Hình ảnh form cập nhật
-![Form cập nhật user](C:\Users\Dell\Pictures\Screenshot 2026-05-04 145658.png)
+![Form cập nhật user](images\Screenshot 2026-05-04 145658.png)
 
 > Lưu ý: bạn có thể lưu file ảnh của màn hình vào `assets/screenshot.png` và ảnh form cập nhật vào `assets/update-form.png` để hiển thị đúng trong README.
 
